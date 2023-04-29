@@ -1,0 +1,3 @@
+C:/Users/aitay/Documents/Github/HangMan_C/cmake-build-debug/CMakeFiles/HangMan_C.dir
+C:/Users/aitay/Documents/Github/HangMan_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aitay/Documents/Github/HangMan_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

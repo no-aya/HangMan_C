@@ -65,7 +65,7 @@ int testInputLetters(char letter,char* word, char* crypted){
     return lettersLeft;
 }
 void loadWord(char *word){
-    FILE *fptr = fopen("../HangManV2/WordDictionary.txt", "r");
+    FILE *fptr = fopen("../WordDictionary.txt", "r");
     if(fptr==NULL) printf("Error : Words dictionary cannot be loaded!\n");
     char ch;
     int numWords=0,randomChoice;
